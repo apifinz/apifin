@@ -1,0 +1,2 @@
+# apifin
+Reduce development effort for API Consumption process by 95%. Compatible with Enterprise Schedulers, iPAAS platforms, POSTMAN and Web Applications. Solution to simplify the complexities in parsing JSON &amp; XML structures without coding. In few clicks, Convert Relational tables to JSON/XML/API, REST API to Snowflake, Oracle to REST API, REST API to REST API, MS SQLServer to XML and vice versa.
